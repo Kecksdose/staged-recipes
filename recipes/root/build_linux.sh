@@ -15,6 +15,7 @@ cmake .. \
     -Droofit=ON \
     -Dtesting=OFF \
     -Dcastor=OFF \
+    -Dminuit2=On \
     -Dbuiltin_ftgl=ON \
     -Dbuiltin_freetype=ON \
     -Dbuiltin_glew=ON \
