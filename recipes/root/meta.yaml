@@ -4,16 +4,16 @@ package:
   # version: "6.06.02"
 
 source:
-  fn: root_v6.04.16.source.tar.gz
-  url: https://root.cern.ch/download/root_v6.04.16.source.tar.gz
-  md5: 4bc634f060ac0d145447ced40039848a
-  sha1: 680a98d6c11d48ed7f4a0a793beb57e11210b118
-  sha256: 758738ce4d599acf125298e0e92bdc225a8f439b4ed758fb7c0f6235d06ba838
-  # fn: root_v6.06.02.source.tar.gz
-  # url: https://root.cern.ch/download/root_v6.06.02.source.tar.gz
-  # md5: e9b8b86838f65b0a78d8d02c66c2ec55
-  # sha1: d696c2056e9af3df4d83c1f1f71dec078790ec81
-  # sha256: 18a4ce42ee19e1a810d5351f74ec9550e6e422b13b5c58e0c3db740cdbc569d1
+  # fn: root_v6.04.16.source.tar.gz
+  # url: https://root.cern.ch/download/root_v6.04.16.source.tar.gz
+  # md5: 4bc634f060ac0d145447ced40039848a
+  # sha1: 680a98d6c11d48ed7f4a0a793beb57e11210b118
+  # sha256: 758738ce4d599acf125298e0e92bdc225a8f439b4ed758fb7c0f6235d06ba838
+  fn: root_v6.06.02.source.tar.gz
+  url: https://root.cern.ch/download/root_v6.06.02.source.tar.gz
+  md5: e9b8b86838f65b0a78d8d02c66c2ec55
+  sha1: d696c2056e9af3df4d83c1f1f71dec078790ec81
+  sha256: 18a4ce42ee19e1a810d5351f74ec9550e6e422b13b5c58e0c3db740cdbc569d1
 
 build:
   number: 4
