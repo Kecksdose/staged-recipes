@@ -1,7 +1,7 @@
 package:
   name: root
-  version: "6.04.16"
-  # version: "6.06.02"
+  # version: "6.04.16"
+  version: "6.06.02"
 
 source:
   # fn: root_v6.04.16.source.tar.gz
